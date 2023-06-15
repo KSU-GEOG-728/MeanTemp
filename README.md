@@ -51,5 +51,3 @@ You can ask questions of me directly in GitHub by raising an issue.  In your rep
 ### Submission
 
 After completing the requested edits to <code>biography.txt</code> make sure that you have (1) committed the changes to the main branch and provided a short summary and description of your changes.  Double check your work by reviewing your repository on GitHub.
-
-END OF EXERCISE
