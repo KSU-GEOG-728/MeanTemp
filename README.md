@@ -3,7 +3,7 @@
 
 ### Objective
 
-Become familiar with GitHub as an online repository for your coding work and GitHub Desktop for managing your work locally and reintegrating it with your online repository.
+Become familiar with **GitHub Classroom** and submitting your work via an online GitHub repository.
 
 ### Task
 
