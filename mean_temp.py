@@ -3,9 +3,9 @@
 
 """
     File name: mean_temp.py
-    Author: Shawn Hutchinson
+    Author: ENTER YOUR  NAME
     Description:  Calculates mean daily temperature from two user defined variables representing a daily high (x) and low (y) temperature
-    Date created: 08/15/2023
+    Date created: ENTER TODAY'S DATE in MM/DD/YYYY FORMAT (e.g., 08/23/2023)
     Python Version: 3.9.16
 """
 
