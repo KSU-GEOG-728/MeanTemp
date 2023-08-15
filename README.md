@@ -51,7 +51,7 @@ After you have made all of the changes you want, you now have to sync these chan
 
 **Step #9 - Verify Changes in GitHub**
 
-In **GitHub Desktop**, choose the option to open your repository page on **GitHub** in your Web browser.  Alternatively, you can simply open a Web browser and navigate to https://github.com.  Find the updated <code>biography.txt</code> file and open it to confirm that your local changes are now reflected in your online repository.
+In **GitHub Desktop**, choose the option to open your repository page on **GitHub** in your Web browser.  Alternatively, you can simply open a Web browser and navigate to https://github.com.  Find the updated <code>mean_temp.py</code> file and open it to confirm that your local changes are now reflected in your online repository.
 
 **Step #10 - Raise an Issue**
 
