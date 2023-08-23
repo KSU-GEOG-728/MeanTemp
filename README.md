@@ -31,15 +31,17 @@ After creating your GitHub acount, start and login to **GitHub Desktop** using y
 
 **Step #4 - Create a Local Clone**
 
-Within **GitHub**, find your newly created assignment repository, click the green Code button, and choose *Open with GitHub Desktop*.  **GitHub Desktop** gives you the option to open the locally cloned files in an editor program (e.g., Notepad++), viewing the repository files in Windows Explorer, or opening the repository page on GitHub in a Web browser.
+Within **GitHub**, find your newly created assignment repository, click the green Code button, and choose *Open with GitHub Desktop*.  **GitHub Desktop** gives you the option to open the locally cloned files in an editor program (e.g., Notepad++), viewing the repository files in Windows Explorer, or opening the repository page on GitHub in a Web browser.  
+
+If this method for creating a local clone is not possible, open **GitHub Desktop** and select *File --> Clone a Repository*, then enter the URL to your repo that was created in the KSU-GEOG-728 organization upon acceptance of the assignment.
 
 **Step #5 - View Files in Windows Explorer**
 
-In **GitHub Desktop**, choose the option to view the files of your repository in Explorer.
+In **GitHub Desktop**, choose the option to view the files of your repository in Windows Explorer.
 
-**Step #6 - Edit a File in Notepad++**
+**Step #6 - Edit a File in Microsoft Visual Studio Code**
 
-Find the file <code>mean_temp.py</code>, open it in **Microsoft VS Code**, and enter the code requested in the comments.  Run the code in the IDE to make sure it works and calculates a correct final value.
+Find the file <code>mean_temp.py</code>, open it in **Microsoft VS Code**, and enter the code requested in the comments.  Run the code in the IDE to make sure it works and calculates a correct final value.  The trick here is to specify the correct Python interpreter within VS Code.  For most students using a lab computer, the correct path for the interpreter will be <code>c:\Program Files\ArcGIS\Pro\Bin\Python\envs\arcgispro-py3\python.exe</code>.  Enter "Ctrl+Shift+P" to open the window in VS Code needed to specify the interpreter.
 
 **Step #7 - Describe and Commit Changes to Master**
 
