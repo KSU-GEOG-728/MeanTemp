@@ -23,7 +23,7 @@ This assignment assumes you already have a GitHub account.  If you do not, login
 
 **Step #2 - Accept an Assignment Invitation and Clone a Template Repository**
 
-When you are assigned coding work this semester, including this assignment, I will send you an email message with a link.  Simply click on this link and *accept* the assignment.  This automatically starts the process of cloning a template repository that contains instructions and other important files that I provide as a starting point.  The name of the cloned respository will follow the convention *template repository name - your GitHub username*. 
+When you are assigned coding work this semester, an important link will be included in the assignment page in Canvas.  Simply click on this link and *accept* the assignment.  This automatically starts the process of cloning a template repository that contains instructions and other important files that I provide as a starting point.  The name of the cloned respository will follow the convention *template repository name - your GitHub username*. 
 
 **Step #3 - Start GitHub Desktop**
 
